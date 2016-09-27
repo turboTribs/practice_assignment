@@ -10,3 +10,4 @@ I've created a practice programming assignment that should help bridge the gap. 
 The instructions are available in rmd and pdf formats.
 
 Also, once you start working on assignment 1, take a look at the FAQ included at the end of the practice assignment.  It addresses probably 80% of the questions people have when they get stuck.
+test
